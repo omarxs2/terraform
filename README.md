@@ -2,4 +2,4 @@
 
 Creating new GCP project with 3 VPCs and different subnets and load balencers using terraform
 
-![alt text](https://github.com/omarxs2/terraform/blob/main/gcp-lab.jpg?raw=true)
+![alt text](https://github.com/omarxs2/terraform/blob/main/gcp-app.png?raw=true)
